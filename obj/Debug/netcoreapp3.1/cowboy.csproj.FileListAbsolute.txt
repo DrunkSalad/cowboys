@@ -1,0 +1,13 @@
+C:\Users\Adagio\Desktop\cowboy\bin\Debug\netcoreapp3.1\cowboy.exe
+C:\Users\Adagio\Desktop\cowboy\bin\Debug\netcoreapp3.1\cowboy.deps.json
+C:\Users\Adagio\Desktop\cowboy\bin\Debug\netcoreapp3.1\cowboy.runtimeconfig.json
+C:\Users\Adagio\Desktop\cowboy\bin\Debug\netcoreapp3.1\cowboy.runtimeconfig.dev.json
+C:\Users\Adagio\Desktop\cowboy\bin\Debug\netcoreapp3.1\cowboy.dll
+C:\Users\Adagio\Desktop\cowboy\bin\Debug\netcoreapp3.1\cowboy.pdb
+C:\Users\Adagio\Desktop\cowboy\obj\Debug\netcoreapp3.1\cowboy.csprojAssemblyReference.cache
+C:\Users\Adagio\Desktop\cowboy\obj\Debug\netcoreapp3.1\cowboy.csproj.CoreCompileInputs.cache
+C:\Users\Adagio\Desktop\cowboy\obj\Debug\netcoreapp3.1\cowboy.AssemblyInfoInputs.cache
+C:\Users\Adagio\Desktop\cowboy\obj\Debug\netcoreapp3.1\cowboy.AssemblyInfo.cs
+C:\Users\Adagio\Desktop\cowboy\obj\Debug\netcoreapp3.1\cowboy.dll
+C:\Users\Adagio\Desktop\cowboy\obj\Debug\netcoreapp3.1\cowboy.pdb
+C:\Users\Adagio\Desktop\cowboy\obj\Debug\netcoreapp3.1\cowboy.genruntimeconfig.cache

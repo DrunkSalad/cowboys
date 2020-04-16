@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Adagio\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Adagio\\.nuget\\packages"
+    ]
+  }
+}
